@@ -12,3 +12,5 @@ This is because the dates are returned in a such a manner in the assignement tha
 
 
 Another way of making sure the DateTime is always Zulu is also implementing a DateTimeKind attribude, however this time this approach was not necessary. 
+
+The endpoints were tested using postman and a series of different requests. The databse was filled by using POST requests, not with a pre-existing csv.
